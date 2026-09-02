@@ -11,6 +11,11 @@ BharatBites is a portfolio simulation of end-to-end manual QA testing for an onl
 - Requirements Traceability Matrix (RTM)
 - Test Summary Report
 
+## Traceability Coverage
+- Requirements covered in RTM: 44/44
+- Test scenarios covered in RTM: 49/49
+- Test cases mapped in RTM: 67/67
+
 ## Execution Summary
 | Metric | Result |
 |---|---:|
